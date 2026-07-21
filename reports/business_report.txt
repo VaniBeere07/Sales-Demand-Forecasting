@@ -1,0 +1,52 @@
+============================================================
+           BUSINESS FORECASTING REPORT
+============================================================
+
+NEXT 90-DAY FORECAST SUMMARY
+----------------------------------------
+Total predicted sales: $50,989.12
+Average daily sales:   $566.55
+Maximum daily sales:    $1,288.66
+Minimum daily sales:    $140.51
+
+MONTHLY FORECAST BREAKDOWN
+----------------------------------------
+December: $1,288.66
+February: $13,610.73
+January: $14,149.54
+March: $21,940.18
+
+WEEKLY FORECAST BREAKDOWN
+----------------------------------------
+Week 1: $2,595.06
+Week 2: $2,502.58
+Week 3: $4,435.14
+Week 4: $3,200.90
+Week 5: $3,885.52
+Week 6: $3,204.76
+Week 7: $3,770.76
+Week 8: $3,103.06
+Week 9: $4,793.65
+Week 10: $4,116.67
+... and 4 more weeks
+
+KEY INSIGHTS
+----------------------------------------
+* Best day: Sunday (2017-12-31) - $1,288.66
+* Worst day: Wednesday (2018-02-28) - $140.51
+
+BUSINESS RECOMMENDATIONS
+----------------------------------------
+1. Inventory Planning:
+   - Plan for $566.55 in average daily sales
+   - Peak day requires $1,288.66 in inventory
+2. Staffing:
+   - Allocate more staff on Sundays
+   - Reduce staffing on Wednesdays
+3. Marketing:
+   - Run promotions during low-sales periods
+   - Prepare for seasonal campaigns
+
+============================================================
+Report generated for Future Interns - Sales & Demand Forecasting
+============================================================
