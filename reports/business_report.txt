@@ -2,50 +2,54 @@
            BUSINESS FORECASTING REPORT
 ============================================================
 
-NEXT 90-DAY FORECAST SUMMARY
+FORECAST ACCURACY
 ----------------------------------------
-Total predicted sales: $50,989.12
-Average daily sales:   $566.55
-Maximum daily sales:    $1,288.66
-Minimum daily sales:    $140.51
+Mean Absolute Error (MAE):     $450.24
+Root Mean Square Error (RMSE): $577.07
+Mean Absolute % Error (MAPE):  311.37%
+Forecast Accuracy:              0.00%
 
-MONTHLY FORECAST BREAKDOWN
+KEY BUSINESS INSIGHTS
 ----------------------------------------
-December: $1,288.66
-February: $13,610.73
-January: $14,149.54
-March: $21,940.18
+* Best performing month: December
+* Worst performing month: February
+* Best day for sales: Friday
+
+NEXT 90-DAY FORECAST
+----------------------------------------
+* Total predicted sales: $50,989.12
+* Average daily sales:   $566.55
+* Forecast period:       2017-12-31 to 2018-03-30
 
 WEEKLY FORECAST BREAKDOWN
 ----------------------------------------
-Week 1: $2,595.06
-Week 2: $2,502.58
-Week 3: $4,435.14
-Week 4: $3,200.90
-Week 5: $3,885.52
-Week 6: $3,204.76
-Week 7: $3,770.76
-Week 8: $3,103.06
-Week 9: $4,793.65
-Week 10: $4,116.67
-... and 4 more weeks
+  Week 1: $2,595.06
+  Week 2: $2,502.58
+  Week 3: $4,435.14
+  Week 4: $3,200.90
+  ... and 10 more weeks
 
-KEY INSIGHTS
+TOP FEATURES IMPACTING SALES
 ----------------------------------------
-* Best day: Sunday (2017-12-31) - $1,288.66
-* Worst day: Wednesday (2018-02-28) - $140.51
+* day_of_year: 34.9% importance
+* day_of_month: 19.5% importance
+* day_sin: 11.0% importance
+* year: 10.4% importance
+* week_of_year: 7.6% importance
 
-BUSINESS RECOMMENDATIONS
+RECOMMENDATIONS
 ----------------------------------------
 1. Inventory Planning:
-   - Plan for $566.55 in average daily sales
-   - Peak day requires $1,288.66 in inventory
+   * Plan for $566.55 in daily sales
+   * Stock up for December seasonal peak
+
 2. Staffing:
-   - Allocate more staff on Sundays
-   - Reduce staffing on Wednesdays
+   * Allocate more staff on Fridays
+   * Consider weekend staffing adjustments
+
 3. Marketing:
-   - Run promotions during low-sales periods
-   - Prepare for seasonal campaigns
+   * Target promotions during historically low periods
+   * Prepare for seasonal campaigns
 
 ============================================================
 Report generated for Future Interns - Sales & Demand Forecasting
